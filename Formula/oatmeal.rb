@@ -1,4 +1,4 @@
-class oatmeal < Formula
+class Oatmeal < Formula
   desc "A simple tool for easy serial connections."
 
   # スクリプトのリポジトリ
